@@ -24,6 +24,12 @@ Morse code transmitter implemented in Arduino. The text message can be customize
 
 A light based theremin implemented on Arduino UNO with a photoresistor (also called **photocell** or **light-dependent resistor (LDR)**) and an active buzzer.
 
+<a id="Morse-code-transmitter"></a>
+
+## Morse code transmitter
+
+Morse code transmitter implemented in Arduino. The text message can be configured in the ***morse.ino*** script. The circuit outputs the morse encoded message using both an RGB led and an active buzzer.
+
 <a id="Sine-wave-model"></a>
 
 ## Sine wave model

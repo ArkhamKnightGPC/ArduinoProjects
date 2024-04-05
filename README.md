@@ -6,6 +6,7 @@ This repository contains miscellaneous Arduino UNO projects. For details on each
  - [RGB led](#RGB-led)
  - [Morse code transmitter](#Morse-code-transmitter)
  - [Light based theremin](#Light-based-theremin)
+ - [Game controller](#Game-controller)
 
 <a id="RGB-led"></a>
 
@@ -28,4 +29,10 @@ Morse code transmitter implemented in Arduino. The text message can be configure
 ## Light based theremin
 
 A light based theremin implemented on Arduino UNO with a photoresistor (also called **photocell** or **light-dependent resistor (LDR)**) and an active buzzer.
+
+<a id="Game-controller"></a>
+
+## Game controller
+
+A simple game controller with five button that control output signals connected to analog input pins. Using an active buzzer, we activate a sound effect when a button is pressed.
 
